@@ -1,0 +1,12 @@
+E:\Hero Dungeon\Hero Dungeon\bin\Debug\Hero Dungeon.exe.config
+E:\Hero Dungeon\Hero Dungeon\bin\Debug\Hero Dungeon.exe
+E:\Hero Dungeon\Hero Dungeon\bin\Debug\Hero Dungeon.pdb
+E:\Hero Dungeon\Hero Dungeon\bin\Debug\Hero Dungeon.xml
+E:\Hero Dungeon\Hero Dungeon\obj\Debug\WindowsApplication1.StartForm.resources
+E:\Hero Dungeon\Hero Dungeon\obj\Debug\WindowsApplication1.Resources.resources
+E:\Hero Dungeon\Hero Dungeon\obj\Debug\WindowsApplication1.GameForm.resources
+E:\Hero Dungeon\Hero Dungeon\obj\Debug\WindowsApplication1.InstructionsForm.resources
+E:\Hero Dungeon\Hero Dungeon\obj\Debug\Hero Dungeon.vbproj.GenerateResource.Cache
+E:\Hero Dungeon\Hero Dungeon\obj\Debug\Hero Dungeon.exe
+E:\Hero Dungeon\Hero Dungeon\obj\Debug\Hero Dungeon.xml
+E:\Hero Dungeon\Hero Dungeon\obj\Debug\Hero Dungeon.pdb
